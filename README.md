@@ -36,3 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * University of Alberta Highschool Internship Program
 * Martin Oliveira
 * Professor Nelson Amaral
+* Antti Haapala - Levenshtein Implementation
