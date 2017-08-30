@@ -1,6 +1,6 @@
 # Clone Detection Through the Comparison of LLVM Intermediate Representation Blocks
 
-One Paragraph of project description goes here
+Compare functions and detect software clones *(slowly)* at the IR level *(with lots of false positives)*
 
 ## Getting Started
 
@@ -13,8 +13,15 @@ https://github.com/ztane/python-Levenshtein/
 ## Usage
 
 Compile programs to be tested using LLVM and generate intermediate representation files (.ll)
+
 Gather the files in a single directory
+
 Run **Main.py**
+
+Identifiy directory in which .ll files are located
+```
+C:\Users\User\Documents\ToTest
+```
 
 ## Authors
 
