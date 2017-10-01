@@ -15,6 +15,7 @@ Gather the files in a single directory
 Run **Main.py**
 
 Identifiy directory in which .ll files are located
+Example:
 ```
 C:\Users\User\Documents\ToTest
 ```
