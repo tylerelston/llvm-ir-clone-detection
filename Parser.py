@@ -99,7 +99,7 @@ def parse(f,file,functionNames):
     pp = pprint.PrettyPrinter(indent=3)
     print("Number of functions: ",funcCount+1,'\n')
     print('Parse time: ', time1 - time0)
-    pp.pprint(dataCalls)
+    pp.pprint(dataCalls)#Remove this line to stop the printing of functions
     return function,data,functionNames
 
 
