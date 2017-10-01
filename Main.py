@@ -1,4 +1,4 @@
-#Removing the printing of filenames in Parser.py will speedup runtime
+#Removing the printing of functions in Parser.py will speedup runtime (line 102)
 import Parser
 import os
 uInput = ''
