@@ -1,6 +1,8 @@
 # Clone Detection Through the Comparison of LLVM Intermediate Representation Blocks
 
-Compare functions and detect software clones *(slowly)* at the IR level *(with lots of false positives)*
+An attempt of detecting clones between functions in a given program.
+
+Comparison of functions at the IR level using Levenshtein distance.
 
 ## Prerequisites
 
